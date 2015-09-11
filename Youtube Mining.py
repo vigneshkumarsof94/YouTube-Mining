@@ -33,8 +33,8 @@ PASSWORD = ''
 # Note: SSL is not available at this time for uploads.
 #Google Developer Id
 yt_service.ssl = True
-yt_service.developer_key = 'AI39si5hVB294Ql1b1IhB_8g6XMY2-o-Cl5zLkn9kx6M2s7QIEGEogXpRrhhDVgH3uPzN8w5GGBh7dpcTH0DIUjwEhmU0xy1_A'
-yt_service.client_id = '1043765885777-8h66bm0lc97f1ct8miugjacmc0q577ja.apps.googleusercontent.com'
+yt_service.developer_key = 'xxxx'
+yt_service.client_id = 'xxxx'
 
 url = ('http://gdata.youtube.com/feeds/api/videos/Y6lGI1SsYn8/comments?' + 'start-index=1&max-results=25')
 print 'Title$Time & Date$Tags$PlayerUrl$Link$Likes$Dislikes$Duration$Uploader$Viewers$VideoID'
