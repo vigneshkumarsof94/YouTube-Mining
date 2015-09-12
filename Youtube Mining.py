@@ -25,8 +25,8 @@ YOUTUBE_ANALYTICS_API_VERSION = "v1"
 yt_service = gdata.youtube.service.YouTubeService()
 
 comment_feed_url = "https://gdata.youtube.com/feeds/api/videos/%s/comments?orderby=published&max-results=50"
-USERNAME = 'mostredb777@gmail.com'
-PASSWORD = 'sdwwadsawawddssa'
+USERNAME = ''
+PASSWORD = ''
 
 
 # Turn on HTTPS/SSL access.
